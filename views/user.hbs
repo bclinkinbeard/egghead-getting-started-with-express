@@ -4,26 +4,129 @@
   <meta charset="UTF-8">
   <title>User Index</title>
   <style>
-    * {
-      font-family: Helvetica, Arial, sans-serif;
-    }
+  * {
+    font-family: Helvetica, Arial, sans-serif;
+  }
 
-    div {
-      display: flex;
-      align-items: center;
-      padding: 1em;
-      font-size: 1.2em;
-    }
+  div.pic {
+    padding-left: 2em;
+    font-size: 1.2em;
+    float: left;
+    height: 400px;
+  }
 
-    div a {
-      padding-left: 0.5em;
-    }
+  div a {
+    padding-left: 0.5em;
+  }
+
+  div.nav {
+    float: left;
+    width: 100%;
+    height: 100px;
+  }
+
+  img {
+    padding-right: 2em;
+  }
+
+  input {
+    font-size: 1em;
+  }
+
+  dt {
+    font-weight: bolder;
+    display: inline-block;
+    width: 4em;
+  }
+
+  dd {
+    display: inline-block;
+    margin-left: 0;
+    line-height: 1.5;
+  }
+
+  .edit {
+    display: none;
+  }
+
   </style>
 </head>
 <body>
 
-  <h1>{{username}}</h1>
-  <img src="/profilepics/{{username}}_lg.jpg" alt="">
+  <div class="nav">
+    <a href="/">Back to Users List</a>
+  </div>
+
+  <div class="pic">
+    <img src="/profilepics/{{user.username}}_med.jpg">
+    <p>
+      <a href="#" onclick="edit()">Edit</a>
+      <a href="#" onclick="del()">Delete</a>
+    </p>
+  </div>
+
+  <h1>{{user.name.full}}</h1>
+  <dl>
+    <dt>Street</dt>
+    <dd class="view">{{address.street}}</dd>
+    <dd class="edit"><input id="street" type="text" value="{{address.street}}"></dd>
+    <br>
+    <dt>City</dt>
+    <dd class="view">{{address.city}}</dd>
+    <dd class="edit"><input id="city" type="text" value="{{address.city}}"></dd>
+    <br>
+    <dt>State</dt>
+    <dd class="view">{{address.state}}</dd>
+    <dd class="edit"><input id="state" type="text" value="{{address.state}}"></dd>
+    <br>
+    <dt>Zip</dt>
+    <dd class="view">{{address.zip}}</dd>
+    <dd class="edit"><input id="zip" type="text" value="{{address.zip}}"></dd>
+    <br>
+    <dt></dt>
+    <dd class="edit">
+      <input type="submit" value="Save" onclick="save()">
+      <input type="submit" value="Cancel" onclick="cancel()">
+    </dd>
+  </dl>
+
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script>
+    function edit () {
+      $('.view').hide()
+      $('.edit').show()
+    }
+
+    function cancel () {
+      $('.view').show()
+      $('.edit').hide()
+    }
+
+    function save () {
+      $.ajax('/{{user.username}}', {
+        method: 'PUT',
+        data: {
+          street: $('#street').val(),
+          city: $('#city').val(),
+          state: $('#state').val(),
+          zip: $('#zip').val()
+        },
+        complete: function () {
+          cancel()
+          location.reload()
+        }
+      })
+    }
+
+    function del () {
+      $.ajax('/{{user.username}}', {
+        method: 'DELETE',
+        complete: function () {
+          location = '/'
+        }
+      })
+    }
+  </script>
 
 </body>
 </html>
