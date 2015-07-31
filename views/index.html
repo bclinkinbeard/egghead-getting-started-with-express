@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>User Index</title>
+</head>
+<body>
+
+  <h1>HTML/EJS</h1>
+  <ul>
+    <% for(var i=0; i<users.length; i++) {%>
+       <li><a href="/<%= users[i].username %>"><%= users[i].name.full %></a></li>
+    <% } %>
+  </ul>
+  
+</body>
+</html>

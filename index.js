@@ -22,13 +22,15 @@ app.engine('hbs', engines.handlebars)
 app.set('views', './views')
 app.set('view engine', 'hbs')
 
+app.use('/profilepics', express.static('images'))
+
 app.get('/', function (req, res) {
   res.render('index', {users: users})
 })
 
 app.get('/:username', function (req, res) {
   var username = req.params.username
-  res.send(username)
+  res.render('user', {username: username})
 })
 
 var server = app.listen(3000, function () {
