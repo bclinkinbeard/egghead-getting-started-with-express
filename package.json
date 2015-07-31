@@ -1,0 +1,19 @@
+{
+  "name": "egghead-getting-started-with-express",
+  "version": "1.0.0",
+  "description": "Egghead - Getting Started with Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Ben Clinkinbeard <ben.clinkinbeard@gmail.com> (http://benclinkinbeard.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.3.7"
+  }
+}
