@@ -1,0 +1,10 @@
+doctype html
+html(lang="en")
+  head
+    title= "User Index"
+  body
+    h1 Jade!
+    ul
+      each user in users
+        li
+          a(href='/' + user.username)= user.name.full
