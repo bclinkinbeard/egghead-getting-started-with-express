@@ -1,0 +1,33 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "willard",
+    "last": "barrett"
+  },
+  "location": {
+    "street": "7636 lakeview st",
+    "city": "ann arbor",
+    "state": "maryland",
+    "zip": "49340"
+  },
+  "email": "willard.barrett17@example.com",
+  "username": "redfrog150",
+  "password": "buttons",
+  "salt": "4Rx0gdc4",
+  "md5": "990134fcbb7c18a878ed30f541aaf8b3",
+  "sha1": "1cee06cade27d63f73dd5248cc12927b3d451706",
+  "sha256": "1898ad158f4163dd255201ba739580167c02477d16bdf1e15e26c47821bb202f",
+  "registered": "930410009",
+  "dob": "868711088",
+  "phone": "(507)-595-6922",
+  "cell": "(153)-994-1328",
+  "SSN": "960-25-2247",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/men/42.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/men/42.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/men/42.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

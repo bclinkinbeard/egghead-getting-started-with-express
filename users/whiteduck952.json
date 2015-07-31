@@ -1,0 +1,33 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "george",
+    "last": "young"
+  },
+  "location": {
+    "street": "9235 valwood pkwy",
+    "city": "rockford",
+    "state": "ohio",
+    "zip": "64897"
+  },
+  "email": "george.young96@example.com",
+  "username": "whiteduck952",
+  "password": "fearless",
+  "salt": "9PRU4jcW",
+  "md5": "131e9077dc4333a410b5ee37685a20e5",
+  "sha1": "798de9e0a511f80570c57d063ab302c740c876cf",
+  "sha256": "362cd25dce6df685890ce55b0e5bfd73f60e79f93d5a6fc555c43498e99b2873",
+  "registered": "1336161400",
+  "dob": "1309498959",
+  "phone": "(972)-496-9174",
+  "cell": "(279)-518-7911",
+  "SSN": "985-92-1077",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/men/28.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/men/28.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/men/28.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

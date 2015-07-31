@@ -1,0 +1,33 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "freddie",
+    "last": "matthews"
+  },
+  "location": {
+    "street": "7697 hunters creek dr",
+    "city": "el monte",
+    "state": "texas",
+    "zip": "47682"
+  },
+  "email": "freddie.matthews37@example.com",
+  "username": "yellowgorilla642",
+  "password": "scooter",
+  "salt": "Fhgq1ioB",
+  "md5": "e79cd41eed54937ad74a65fcaf464b86",
+  "sha1": "a6f650c8eb06b89f52fc2493c5235134f0097b63",
+  "sha256": "2b0d9a88325ba27f2f3c612e7b2d8d32ee1b2d97968e1a12d23c98e3df2cc759",
+  "registered": "1433001305",
+  "dob": "997635417",
+  "phone": "(818)-264-7881",
+  "cell": "(387)-975-4179",
+  "SSN": "498-76-2379",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/men/62.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/men/62.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/men/62.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

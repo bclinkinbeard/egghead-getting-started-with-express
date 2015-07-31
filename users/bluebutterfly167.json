@@ -1,0 +1,33 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "joshua",
+    "last": "pearson"
+  },
+  "location": {
+    "street": "3756 poplar dr",
+    "city": "scottsdale",
+    "state": "rhode island",
+    "zip": "21122"
+  },
+  "email": "joshua.pearson33@example.com",
+  "username": "bluebutterfly167",
+  "password": "zxc123",
+  "salt": "UUzKSNfN",
+  "md5": "747997741ab6fbb16915001603dd1f31",
+  "sha1": "49a94dfc2e2156479e173e8df24775845b51394c",
+  "sha256": "8afcd2c9001fccd9bcc3a6f01a67c44381e8e30ee21453c2f4c17ee170e76d98",
+  "registered": "1410353888",
+  "dob": "1080960125",
+  "phone": "(454)-362-2520",
+  "cell": "(505)-521-1431",
+  "SSN": "548-85-1573",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/men/8.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/men/8.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/men/8.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

@@ -1,0 +1,33 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "arthur",
+    "last": "ferguson"
+  },
+  "location": {
+    "street": "7292 lone wolf trail",
+    "city": "savannah",
+    "state": "montana",
+    "zip": "34548"
+  },
+  "email": "arthur.ferguson86@example.com",
+  "username": "crazygorilla163",
+  "password": "booker",
+  "salt": "LS9kAvuQ",
+  "md5": "c4659b973df50427acba7d3bea1b1323",
+  "sha1": "1bae58d171789f2b1b6e94af4907f7bafa05bdd0",
+  "sha256": "1c5f50a3faa3afbafa90cdd6c8c26dca07a304c9c8544b67442a951be43313d6",
+  "registered": "1182896397",
+  "dob": "1259078729",
+  "phone": "(857)-896-4648",
+  "cell": "(989)-483-2034",
+  "SSN": "486-71-2266",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/men/82.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/men/82.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/men/82.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

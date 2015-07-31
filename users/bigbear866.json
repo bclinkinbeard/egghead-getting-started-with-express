@@ -1,0 +1,33 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "darryl",
+    "last": "hopkins"
+  },
+  "location": {
+    "street": "2125 taylor st",
+    "city": "el paso",
+    "state": "arkansas",
+    "zip": "65375"
+  },
+  "email": "darryl.hopkins33@example.com",
+  "username": "bigbear866",
+  "password": "survivor",
+  "salt": "XMsm29G7",
+  "md5": "172c709a84697dff2730b2379fe8cade",
+  "sha1": "0e1ea69c2a41bdb9db5b88a527a8badabc0f9ca3",
+  "sha256": "27a853572cd12a18dedcfbb7dc9e37b5be18fb8f8395e7ac7d59f9fadccd6765",
+  "registered": "1392314738",
+  "dob": "466227465",
+  "phone": "(879)-509-5668",
+  "cell": "(889)-402-5657",
+  "SSN": "793-63-8562",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/men/3.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/men/3.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/men/3.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

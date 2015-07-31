@@ -1,0 +1,33 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "aiden",
+    "last": "peterson"
+  },
+  "location": {
+    "street": "3539 samaritan dr",
+    "city": "las cruces",
+    "state": "montana",
+    "zip": "78769"
+  },
+  "email": "aiden.peterson83@example.com",
+  "username": "crazypanda94",
+  "password": "faith",
+  "salt": "rn9citAZ",
+  "md5": "d74e87612171dce666c44ba2f784be51",
+  "sha1": "bb21c610ac176dd4acdeef6a1f17bb95958273f6",
+  "sha256": "a09a13c8df2bc809bdbc8fcaef39d7d92283c533d9ac553cc12a65a7d833fb7d",
+  "registered": "1282154747",
+  "dob": "995933020",
+  "phone": "(396)-711-1674",
+  "cell": "(773)-824-5448",
+  "SSN": "253-40-4031",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/men/34.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/men/34.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/men/34.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

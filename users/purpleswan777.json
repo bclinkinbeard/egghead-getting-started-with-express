@@ -1,0 +1,33 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "judd",
+    "last": "steeves"
+  },
+  "location": {
+    "street": "9424 valwood pkwy",
+    "city": "santa clara",
+    "state": "colorado",
+    "zip": "51967"
+  },
+  "email": "judd.steeves56@example.com",
+  "username": "purpleswan777",
+  "password": "kristy",
+  "salt": "MUBUMtu7",
+  "md5": "a52a03a1aff828d83341eb74e5e1c87b",
+  "sha1": "3ca85707a034e847c6797caa9abf1610c3440615",
+  "sha256": "10662f2d505b066c07216ed3a4b054c11b9b20a70142b2d00c1e4cd4f031e984",
+  "registered": "971243197",
+  "dob": "49600584",
+  "phone": "(691)-267-9163",
+  "cell": "(514)-493-1894",
+  "SSN": "290-90-2123",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/men/13.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/men/13.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/men/13.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

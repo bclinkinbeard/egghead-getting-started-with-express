@@ -1,0 +1,33 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "johnni",
+    "last": "franklin"
+  },
+  "location": {
+    "street": "1459 e little york rd",
+    "city": "lincoln",
+    "state": "montana",
+    "zip": "17574"
+  },
+  "email": "johnni.franklin85@example.com",
+  "username": "biglion303",
+  "password": "babylon",
+  "salt": "XKVxUTG7",
+  "md5": "52b6676f337a719c6e70111b246133ef",
+  "sha1": "58e9df23a4c5542fd35c3f4db8d3234418d0b8e1",
+  "sha256": "4290531a6950539c0d53720d582ba8a4d3e79b518ef12b7550c79f1f7aca5d6d",
+  "registered": "1099156896",
+  "dob": "472553267",
+  "phone": "(720)-903-3091",
+  "cell": "(962)-569-4370",
+  "SSN": "736-37-1081",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/men/20.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/men/20.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/men/20.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

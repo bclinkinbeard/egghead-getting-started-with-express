@@ -1,0 +1,33 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "alan",
+    "last": "walters"
+  },
+  "location": {
+    "street": "2251 w 6th st",
+    "city": "lincoln",
+    "state": "ohio",
+    "zip": "91132"
+  },
+  "email": "alan.walters29@example.com",
+  "username": "crazytiger134",
+  "password": "holein1",
+  "salt": "MW5ssRFK",
+  "md5": "6927e5330ef9d61573d6b28d586a0133",
+  "sha1": "6449d9337b88d559d095e1d44ebcd4816922801d",
+  "sha256": "4c54e90ebc63f8016707673cedc9969f337fac1c8baa9c8ce7355a18fc7bc54c",
+  "registered": "1020671329",
+  "dob": "53239751",
+  "phone": "(459)-604-4672",
+  "cell": "(433)-857-9712",
+  "SSN": "651-78-8941",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/men/30.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/men/30.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/men/30.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

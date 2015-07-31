@@ -1,0 +1,33 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "mary",
+    "last": "jones"
+  },
+  "location": {
+    "street": "4973 w 6th st",
+    "city": "milwaukee",
+    "state": "kansas",
+    "zip": "20779"
+  },
+  "email": "mary.jones56@example.com",
+  "username": "crazypeacock512",
+  "password": "dolores",
+  "salt": "PngHICs4",
+  "md5": "60de2492b9ea0083cfc06ef298b9d269",
+  "sha1": "1ebc2e5a856c1b6d429c547fdfa5d0ed6f08b85d",
+  "sha256": "ba6c9f61a7e40b0a94f2659962671b9b17e8b688017a71d916fbf7248ddb182f",
+  "registered": "925496605",
+  "dob": "1018361956",
+  "phone": "(490)-845-5304",
+  "cell": "(684)-259-6208",
+  "SSN": "797-53-5900",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/women/75.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/women/75.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/women/75.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

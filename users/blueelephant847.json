@@ -1,0 +1,33 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "lloyd",
+    "last": "herrera"
+  },
+  "location": {
+    "street": "9313 railroad st",
+    "city": "akron",
+    "state": "michigan",
+    "zip": "64237"
+  },
+  "email": "lloyd.herrera71@example.com",
+  "username": "blueelephant847",
+  "password": "sluggo",
+  "salt": "eA6YoG1S",
+  "md5": "376a1028c89892bf6169f4cff6b26507",
+  "sha1": "6713f4615c6d87d1a7bda5ee2157223aa4e7f247",
+  "sha256": "8353a720d53bb98f1b07d61a40ebccd2cab59d283b0ffc6a95622b5556deac31",
+  "registered": "955175534",
+  "dob": "667996919",
+  "phone": "(611)-569-2446",
+  "cell": "(843)-784-7736",
+  "SSN": "469-68-7264",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/men/9.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/men/9.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/men/9.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

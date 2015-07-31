@@ -1,0 +1,33 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "toni",
+    "last": "obrien"
+  },
+  "location": {
+    "street": "3882 w gray st",
+    "city": "olathe",
+    "state": "delaware",
+    "zip": "81577"
+  },
+  "email": "toni.obrien19@example.com",
+  "username": "bluebear73",
+  "password": "404040",
+  "salt": "oyH55IG0",
+  "md5": "cd3019c4aa5019a42d9aa246d93e5788",
+  "sha1": "485e0d25b1baff88f9ab47921232386ac7b59803",
+  "sha256": "ed20b31ff6bae36b498581e3151dab7ef81128f6a8545ff5137863744142519f",
+  "registered": "1105806719",
+  "dob": "1207302719",
+  "phone": "(564)-992-9025",
+  "cell": "(579)-203-1822",
+  "SSN": "725-69-7661",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/women/51.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/women/51.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/women/51.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

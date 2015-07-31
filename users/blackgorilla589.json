@@ -1,0 +1,33 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "kelly",
+    "last": "shaw"
+  },
+  "location": {
+    "street": "3284 w belt line rd",
+    "city": "burkburnett",
+    "state": "montana",
+    "zip": "18388"
+  },
+  "email": "kelly.shaw12@example.com",
+  "username": "blackgorilla589",
+  "password": "giants",
+  "salt": "3Yfps3Xh",
+  "md5": "ce17c7a68f0fe6979d1016d4e8d3a397",
+  "sha1": "d4621d1b1ce2395213aae2a3c883029397c013a2",
+  "sha256": "86514f1a952140cf3a00cafabefd6911ecdc5e646d81f7356e72374ea267bdec",
+  "registered": "1247442187",
+  "dob": "950373115",
+  "phone": "(262)-804-3456",
+  "cell": "(848)-993-4928",
+  "SSN": "166-34-8703",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/women/14.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/women/14.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/women/14.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

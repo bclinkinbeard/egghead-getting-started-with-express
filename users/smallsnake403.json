@@ -1,0 +1,33 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "sergio",
+    "last": "ryan"
+  },
+  "location": {
+    "street": "3407 oak lawn ave",
+    "city": "seymour",
+    "state": "indiana",
+    "zip": "77914"
+  },
+  "email": "sergio.ryan90@example.com",
+  "username": "smallsnake403",
+  "password": "ricky",
+  "salt": "l1cqf2fA",
+  "md5": "5513e7e02b1846649d744d79936616e1",
+  "sha1": "77200a8f837fdf3d7b6cb249f10d954539953aeb",
+  "sha256": "69fb5a35080c3ea0b919cc6e40a93f4b297c9a00e13b616269740d6cb2070480",
+  "registered": "1268350081",
+  "dob": "699833358",
+  "phone": "(857)-564-8260",
+  "cell": "(419)-925-1417",
+  "SSN": "461-13-4361",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/men/4.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/men/4.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/men/4.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

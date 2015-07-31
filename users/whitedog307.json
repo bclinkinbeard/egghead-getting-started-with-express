@@ -1,0 +1,33 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "oscar",
+    "last": "wells"
+  },
+  "location": {
+    "street": "5902 cherry st",
+    "city": "louisville",
+    "state": "indiana",
+    "zip": "24292"
+  },
+  "email": "oscar.wells37@example.com",
+  "username": "whitedog307",
+  "password": "chance",
+  "salt": "KAp2VjJL",
+  "md5": "9a386dd95b59f4d1d7b47578c25b9fa3",
+  "sha1": "ab4190e2c863da038c4e13c3790492287abc8e05",
+  "sha256": "761bea5cd76cc0b2857a3785f4168f9b826b6b0aa14cb9c32519f42f6457d5ea",
+  "registered": "1267696904",
+  "dob": "340601620",
+  "phone": "(854)-911-1193",
+  "cell": "(453)-772-5064",
+  "SSN": "659-60-5409",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/men/49.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/men/49.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/men/49.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

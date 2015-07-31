@@ -1,0 +1,33 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "kenneth",
+    "last": "warren"
+  },
+  "location": {
+    "street": "8687 james st",
+    "city": "denver",
+    "state": "kentucky",
+    "zip": "61015"
+  },
+  "email": "kenneth.warren82@example.com",
+  "username": "goldenkoala804",
+  "password": "asimov",
+  "salt": "BJRQApaR",
+  "md5": "9bfdaf64a0e1177b9503b946a9a547c5",
+  "sha1": "4c119760c19ea1f85f7c5d5bf1edeec47c88336d",
+  "sha256": "989fe0b9373adbeec85043502d637c75bd38c5381e6e8d851401a3e49e2c9a50",
+  "registered": "1052228781",
+  "dob": "640949824",
+  "phone": "(864)-466-2914",
+  "cell": "(355)-454-8461",
+  "SSN": "877-38-1963",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/men/45.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/men/45.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/men/45.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

@@ -1,0 +1,33 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "calvin",
+    "last": "freeman"
+  },
+  "location": {
+    "street": "1487 w 6th st",
+    "city": "north las vegas",
+    "state": "pennsylvania",
+    "zip": "16423"
+  },
+  "email": "calvin.freeman62@example.com",
+  "username": "heavygoose106",
+  "password": "caitlin",
+  "salt": "iA2DgidD",
+  "md5": "404a60a95de97b7dd20be0b965520f24",
+  "sha1": "9360f3b2d7bb63e5a82281bf9df2b130a24a5af0",
+  "sha256": "05b0132e8e5844da5828759ca01999bb478f5bdf2b55a051c415c8158dafe18c",
+  "registered": "1075375413",
+  "dob": "1292035860",
+  "phone": "(366)-519-4138",
+  "cell": "(642)-783-2745",
+  "SSN": "787-62-1676",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/men/88.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/men/88.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/men/88.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

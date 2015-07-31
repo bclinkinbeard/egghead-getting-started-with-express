@@ -11,7 +11,8 @@
   "author": "Ben Clinkinbeard <ben.clinkinbeard@gmail.com> (http://benclinkinbeard.com/)",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.13.1"
+    "express": "^4.13.1",
+    "lodash": "^3.10.0"
   },
   "devDependencies": {
     "nodemon": "^1.3.7"

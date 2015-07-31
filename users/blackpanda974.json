@@ -1,0 +1,33 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "miriam",
+    "last": "wallace"
+  },
+  "location": {
+    "street": "1360 country club rd",
+    "city": "plano",
+    "state": "north dakota",
+    "zip": "36965"
+  },
+  "email": "miriam.wallace36@example.com",
+  "username": "blackpanda974",
+  "password": "minerva",
+  "salt": "WTcDGIxR",
+  "md5": "6b5530f557c24a47eee7e63bb74c3149",
+  "sha1": "3e21a623ea8d443643b61c7ca04cf7baf756d4a4",
+  "sha256": "650ccd19775ed4aae75f6f414dfa7f0cd881ac50a867061846ee50cdbce47764",
+  "registered": "1408657261",
+  "dob": "920786361",
+  "phone": "(877)-834-8253",
+  "cell": "(840)-660-3023",
+  "SSN": "833-19-2094",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/women/77.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/women/77.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/women/77.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

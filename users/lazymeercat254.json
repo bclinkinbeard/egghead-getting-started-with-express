@@ -1,0 +1,33 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "wyatt",
+    "last": "nelson"
+  },
+  "location": {
+    "street": "3504 mcclellan rd",
+    "city": "wichita",
+    "state": "california",
+    "zip": "33587"
+  },
+  "email": "wyatt.nelson81@example.com",
+  "username": "lazymeercat254",
+  "password": "xyzzy",
+  "salt": "PobKmyaw",
+  "md5": "90e744950934c55a56607b3ab251e0bd",
+  "sha1": "15c56ae1f77a8f933787eb587e4ea827a90a7850",
+  "sha256": "7c6ca29ea4d93fcb195db54917529ac039a2910bb930ad86cef7c549dd8b659e",
+  "registered": "1144154033",
+  "dob": "296461550",
+  "phone": "(566)-541-7423",
+  "cell": "(402)-572-7234",
+  "SSN": "454-97-5118",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/men/45.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/men/45.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/men/45.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

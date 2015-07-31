@@ -1,0 +1,33 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "edwin",
+    "last": "morales"
+  },
+  "location": {
+    "street": "3353 brown terrace",
+    "city": "red bluff",
+    "state": "new mexico",
+    "zip": "74549"
+  },
+  "email": "edwin.morales41@example.com",
+  "username": "bigkoala328",
+  "password": "bikini",
+  "salt": "eBroblf2",
+  "md5": "e085bb5a765fc87b5aa0412b87d11170",
+  "sha1": "dbec17ed56e7cf234fb135a565d73256fc1abe4a",
+  "sha256": "31a9f00b9e6b734761895e851a7032d8ad18d056c1f4e29fc845e6e2d23d10ec",
+  "registered": "1016723833",
+  "dob": "1336294635",
+  "phone": "(311)-893-9877",
+  "cell": "(967)-249-3136",
+  "SSN": "135-72-1815",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/men/5.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/men/5.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/men/5.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

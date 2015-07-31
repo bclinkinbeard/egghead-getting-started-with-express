@@ -1,0 +1,33 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "ian",
+    "last": "west"
+  },
+  "location": {
+    "street": "6486 photinia ave",
+    "city": "phoenix",
+    "state": "illinois",
+    "zip": "29566"
+  },
+  "email": "ian.west17@example.com",
+  "username": "tinyduck707",
+  "password": "ringo",
+  "salt": "Ih1phQnm",
+  "md5": "45692b40700c020fe551f7cf7fbaea4e",
+  "sha1": "ca5578054c922f2f423c33ec87d64a2f7ab419da",
+  "sha256": "aeb67f166ed7a68e1f366f7b3d7debe9bbcba549306e300c110224f3a4a624b6",
+  "registered": "1046927147",
+  "dob": "1154684157",
+  "phone": "(971)-703-1790",
+  "cell": "(926)-471-8376",
+  "SSN": "157-54-9225",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/men/21.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/men/21.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/men/21.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

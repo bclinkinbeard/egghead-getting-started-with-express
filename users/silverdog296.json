@@ -1,0 +1,33 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "anita",
+    "last": "turner"
+  },
+  "location": {
+    "street": "4663 walnut hill ln",
+    "city": "billings",
+    "state": "oregon",
+    "zip": "97830"
+  },
+  "email": "anita.turner36@example.com",
+  "username": "silverdog296",
+  "password": "tarheel",
+  "salt": "FaiJYJDw",
+  "md5": "1bffdb57ffbda982c2c19bed8f5e97d9",
+  "sha1": "862b9c4f6e356b604629c0c8e402ce654eb03ef5",
+  "sha256": "8717887827edecce855c3774369de0d472400066eecd2522099c8c0d5fbdb6a5",
+  "registered": "1146743928",
+  "dob": "1299070874",
+  "phone": "(151)-112-6487",
+  "cell": "(512)-870-4140",
+  "SSN": "611-59-4429",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/women/84.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/women/84.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/women/84.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

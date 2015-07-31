@@ -1,0 +1,33 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "michael",
+    "last": "hart"
+  },
+  "location": {
+    "street": "9388 adams st",
+    "city": "aurora",
+    "state": "montana",
+    "zip": "19895"
+  },
+  "email": "michael.hart69@example.com",
+  "username": "browndog574",
+  "password": "someone",
+  "salt": "BabpEQcZ",
+  "md5": "434d044c2f3211b1d690fbd29446affa",
+  "sha1": "46e26215a2eaed89aa9168ddbdb2de7e127f4467",
+  "sha256": "ae032609a559ecff6b05d776e2a256496ac79f227688edbc3179ee895f367e18",
+  "registered": "953880317",
+  "dob": "1159363418",
+  "phone": "(187)-631-9541",
+  "cell": "(759)-624-2801",
+  "SSN": "272-56-8674",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/men/46.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/men/46.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/men/46.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

@@ -1,0 +1,33 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "annette",
+    "last": "black"
+  },
+  "location": {
+    "street": "6087 harrison ct",
+    "city": "arvada",
+    "state": "texas",
+    "zip": "69860"
+  },
+  "email": "annette.black70@example.com",
+  "username": "greenelephant690",
+  "password": "blue",
+  "salt": "LMovbmL6",
+  "md5": "f52522ad39d4372b8239c1bc45a7d872",
+  "sha1": "28e19f73afeccae790d0e00c3d4933b22e0eb363",
+  "sha256": "f20f928601dfb050700d94c881bb24c22471f3b5ac58e0a1198a86ae00f11d14",
+  "registered": "1104733944",
+  "dob": "1068387007",
+  "phone": "(817)-652-9025",
+  "cell": "(610)-253-8546",
+  "SSN": "689-78-3434",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/women/83.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/women/83.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/women/83.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

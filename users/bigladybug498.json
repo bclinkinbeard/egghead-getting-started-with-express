@@ -1,0 +1,33 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "mrs",
+    "first": "jackie",
+    "last": "medina"
+  },
+  "location": {
+    "street": "1236 preston rd",
+    "city": "santa maria",
+    "state": "new mexico",
+    "zip": "23420"
+  },
+  "email": "jackie.medina91@example.com",
+  "username": "bigladybug498",
+  "password": "jaybird",
+  "salt": "yTvR7pxm",
+  "md5": "e02e9688434d979140adc22b78ac72e5",
+  "sha1": "f4e3dc28f48804f1674c840cff65ffabf283bba6",
+  "sha256": "42c54f1a1b331410325aff198c3fa2229152447ce36a14c2da3b49c3196426f3",
+  "registered": "1018831086",
+  "dob": "67695206",
+  "phone": "(678)-724-7483",
+  "cell": "(134)-263-9445",
+  "SSN": "519-94-6792",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/women/57.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/women/57.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/women/57.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

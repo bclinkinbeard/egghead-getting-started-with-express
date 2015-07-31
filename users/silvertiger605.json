@@ -1,0 +1,33 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "gail",
+    "last": "holmes"
+  },
+  "location": {
+    "street": "5019 nowlin rd",
+    "city": "grand prairie",
+    "state": "hawaii",
+    "zip": "24561"
+  },
+  "email": "gail.holmes71@example.com",
+  "username": "silvertiger605",
+  "password": "sandrine",
+  "salt": "S7PZ19Tz",
+  "md5": "1925a79d7ccd919cf8a0e27bf68ba0ac",
+  "sha1": "216828365260b7ccc76e091ef523d01dd04a5c97",
+  "sha256": "36023e08b28e03bd74e9c64f72cd6cdb1d40dc60dbcbb93fc0bce817563e53f7",
+  "registered": "1077426717",
+  "dob": "951661934",
+  "phone": "(165)-773-8231",
+  "cell": "(807)-828-7024",
+  "SSN": "935-50-2768",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/women/68.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/women/68.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/women/68.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

@@ -1,0 +1,33 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "lucy",
+    "last": "hansen"
+  },
+  "location": {
+    "street": "3424 dane st",
+    "city": "west valley city",
+    "state": "arizona",
+    "zip": "58264"
+  },
+  "email": "lucy.hansen42@example.com",
+  "username": "bluesnake414",
+  "password": "coolcool",
+  "salt": "KdjGZ6dY",
+  "md5": "7baee0d7d39eadfdf6aa68268a056947",
+  "sha1": "e537cc4f7314046ad21e719c3d13ed38d9108195",
+  "sha256": "5addf6b56bb15166946a56db86ca67b314c5d2e262e9beb79c9cb10ff31d79ec",
+  "registered": "1171310539",
+  "dob": "99744619",
+  "phone": "(381)-553-6812",
+  "cell": "(783)-802-4406",
+  "SSN": "991-64-8652",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/women/33.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/women/33.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/women/33.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

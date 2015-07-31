@@ -1,0 +1,33 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "rachel",
+    "last": "garrett"
+  },
+  "location": {
+    "street": "5599 ranchview dr",
+    "city": "cape fear",
+    "state": "washington",
+    "zip": "97999"
+  },
+  "email": "rachel.garrett39@example.com",
+  "username": "silverfish61",
+  "password": "werdna",
+  "salt": "duT4cr2t",
+  "md5": "e1e26439f70215c3f38a36606931a0e8",
+  "sha1": "1ffc65fc09f99cff4af990566955684dd6f65684",
+  "sha256": "55be1997c7ad2f3927bd28ad52ee4f104943fb1d193b453afd2cc9cacb5f4af5",
+  "registered": "1056933364",
+  "dob": "591379283",
+  "phone": "(917)-573-6524",
+  "cell": "(175)-515-3733",
+  "SSN": "504-13-2839",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/women/20.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/women/20.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/women/20.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}

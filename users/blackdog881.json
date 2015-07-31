@@ -1,0 +1,33 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "mr",
+    "first": "felix",
+    "last": "miles"
+  },
+  "location": {
+    "street": "9851 depaul dr",
+    "city": "portland",
+    "state": "new york",
+    "zip": "53768"
+  },
+  "email": "felix.miles29@example.com",
+  "username": "blackdog881",
+  "password": "bartman",
+  "salt": "0YyYmQRR",
+  "md5": "9e36172c1c5dd5cd5005d5f871b89824",
+  "sha1": "cddf60857f0ff453386ffa323abe2469101294ee",
+  "sha256": "c7879a791672d23cae86d29ad7e4a439f94be43f31834a1d54d103ef0c114380",
+  "registered": "1058971408",
+  "dob": "1237372735",
+  "phone": "(746)-771-4591",
+  "cell": "(474)-147-8829",
+  "SSN": "640-80-3501",
+  "picture": {
+    "large": "http://api.randomuser.me/portraits/men/84.jpg",
+    "medium": "http://api.randomuser.me/portraits/med/men/84.jpg",
+    "thumbnail": "http://api.randomuser.me/portraits/thumb/men/84.jpg"
+  },
+  "version": "0.6",
+  "nationality": "US"
+}
