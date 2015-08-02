@@ -17,7 +17,9 @@
     "express": "^4.13.1",
     "handlebars": "^3.0.3",
     "jade": "^1.11.0",
-    "lodash": "^3.10.0"
+    "lodash": "^3.10.0",
+    "mongodb": "^2.0.39",
+    "mongoose": "^4.1.0"
   },
   "devDependencies": {
     "nodemon": "^1.3.7"
