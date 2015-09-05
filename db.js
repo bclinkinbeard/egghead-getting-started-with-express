@@ -1,13 +1,13 @@
-var uri = 'mongodb://localhost:27017/test'
+var uri = 'mongodb://localhost:27017/test';
 
-var mongoose = require('mongoose')
-mongoose.connect(uri)
+var mongoose = require('mongoose');
+mongoose.connect(uri);
 
-var db = mongoose.connection
-db.on('error', console.error.bind(console, 'connection error:'))
+var db = mongoose.connection;
+db.on('error', console.error.bind(console, 'connection error:'));
 db.once('open', function (callback) {
-  console.log('db connected')
-})
+  console.log('db connected');
+});
 
 var userSchema = mongoose.Schema({
   username: String,
@@ -24,5 +24,6 @@ var userSchema = mongoose.Schema({
     state: String,
     zip: Number
   }
-})
-exports.User = mongoose.model('User', userSchema)
+});
+
+exports.User = mongoose.model('User', userSchema);

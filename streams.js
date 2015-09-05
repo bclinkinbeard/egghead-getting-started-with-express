@@ -1,9 +1,9 @@
-var fs = require('fs')
+var fs = require('fs');
 
-var inputFile = './users.json'
-var outputFile = './out.json'
+var inputFile = './users.json';
+var outputFile = './out.json';
 
-var readable = fs.createReadStream(inputFile)
-var writeable = fs.createWriteStream(outputFile)
+var readable = fs.createReadStream(inputFile);
+var writeable = fs.createWriteStream(outputFile);
 
-readable.pipe(writeable)
+readable.pipe(writeable);
