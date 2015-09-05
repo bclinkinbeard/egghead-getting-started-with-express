@@ -21,7 +21,7 @@ app.get('/favicon.ico', function (req, res) {
 
 app.get('/', function (req, res) {
   User.find({}, function (err, users) {
-    console.error(err);
+    if (err) console.error(err);
     res.render('index', {users: users});
   });
 });

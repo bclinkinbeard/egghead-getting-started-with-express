@@ -16,7 +16,7 @@ router.use(function (req, res, next) {
 router.get('/', function (req, res) {
   var username = req.params.username;
   User.findOne({username: username}, function (err, user) {
-    console.error(err);
+    if (err) console.error(err);
     res.render('user', {
       user: user,
       address: user.location
@@ -25,7 +25,7 @@ router.get('/', function (req, res) {
 });
 
 router.use(function (err, req, res, next) {
-  console.error(err.stack);
+  if (err) console.error(err.stack);
   res.status(500).send('Something broke!');
 });
 
@@ -33,7 +33,7 @@ router.put('/', function (req, res) {
   var username = req.params.username;
 
   User.findOneAndUpdate({username: username}, {location: req.body}, function (err, user) {
-    console.error(err);
+    if (err) console.error(err);
     res.end();
   });
 });
